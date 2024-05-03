@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @wnadim
+- 👀 I’m interested in iOS developer using SwiftUI - learning is on going :) 
 - 👀 I’m interested in coding using Python
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Data Analysis using Python
